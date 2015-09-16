@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 轉識論
+#+DATE: 2015-08-30 20:55:48.470213
+#+PROPERTY: JUAN 0
