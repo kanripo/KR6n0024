@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:48.248918
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:38
 #+TITLE: 轉識論
 #+PROPERTY: CBETA_ID T31n1587
 #+PROPERTY: ID KR6n0024
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1587
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0024_T_001-0061c> 
 #+PROPERTY: JUAN 1
 ¶
-No.1587[No.1586;cf.No.1585]¶
-
- 轉識論(從無相論出)¶
+No. 1587 [No. 1586; cf. No. 1585]¶
+轉識論(從無相論出)¶
 ¶
-陳代真諦譯¶
+陳代＝天竺三藏法師【三】【宮】代＝天竺三藏法師【宋】【元】【明】【宮】代真諦譯代真諦譯¶
 
 識轉有二種。一轉為眾生。二轉為法。一切¶
 所緣不出此二。此二實無。但是識轉作二相¶
