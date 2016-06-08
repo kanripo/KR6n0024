@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:49.449068
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:38
 #+TITLE: 轉識論
 #+PROPERTY: CBETA_ID T31n1587
 #+PROPERTY: ID KR6n0024
